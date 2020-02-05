@@ -207,7 +207,105 @@ nav {
   background-color: #fff;
 }
 
-.three-by-two-box i {
+.selfsection .three-by-two-box i {
   margin-bottom: 10px;
   color: #8590a6;
+}
+
+.author-center {
+  margin: 10px 0px;
+  display: flex;
+  justify-content: space-between;
+  padding: 15px;
+  background-color: #fff;
+  color: #8590a6;
+}
+
+.author-center-title i {
+  margin-right: 10px;
+}
+
+.author-center-button a {
+  text-decoration: none;
+  color: #0084ff;
+  margin-right: 10px;
+}
+
+.sellsection .three-by-two-box i {
+  margin-bottom: 10px;
+}
+
+.sellsection {
+  color: #8590a6;
+}
+
+.sellsection .yellow i {
+  color: rgb(255, 207, 0);
+}
+
+.sellsection .green i {
+  color: rgb(67, 212, 128);
+}
+
+.sellsection .blue i {
+  color: rgb(0, 132, 255);
+}
+
+.sellsection .purple i {
+  color: rgb(88, 104, 209);
+}
+
+.helping-list {
+  background-color: #fff;
+  padding: 10px;
+  margin-top: 10px;
+}
+
+.helping-list ul {
+  margin: 0px;
+  padding: 0px;
+}
+
+.helping-list ul li {
+  list-style: none;
+  display: flex;
+  justify-content: space-between;
+  padding: 10px;
+}
+
+.count {
+  color: #8590a6;
+  background: #f6f6f6;
+  padding: 10px;
+  font-size: 12px;
+  border-radius: 3px;
+}
+
+.ad {
+  height: 300px;
+  width: inherit;
+  background-color: #0084ff;
+  margin-top: 10px;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  color: aqua;
+  font-size: 20px;
+  font-weight: 700;
+}
+
+footer {
+  color: #8590a6;
+  margin-top: 10px;
+}
+
+footer a {
+  text-decoration: none;
+  color: #8590a6;
+  font-size: 13px;
+  padding-bottom: 20px;
+}
+
+footer div {
+  margin-top: 10px;
 }
